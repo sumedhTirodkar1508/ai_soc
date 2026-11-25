@@ -383,7 +383,7 @@ Condition: severity == "critical" OR "high"
 
 **TODO: Phase 5** - Add contribution guidelines
 
-The project was originally developed by Abdul Bari (abdul.bari8019@coyote.csusb.edu). Dev Bhatt currently maintains the project.
+The project was originally developed by Abdul Bari (abdul.bari8019@coyote.csusb.edu).
 
 ---
 
@@ -397,11 +397,3 @@ The project was originally developed by Abdul Bari (abdul.bari8019@coyote.csusb.
 
 **Last Updated:** 2025-01-13
 **Status:** Phase 3 (Week 4) - Development Ready
-**Maintainer:** Dev Bhatt
-
-## Maintainer
-
-Dev Bhatt is a data analyst with 6+ years of professional experience building automated pipelines, controls, and dashboards. His work includes automating key risk indicator tracking and reconciliation across 50M+ records per month, reducing operational cycle time by 35% with AI-assisted automation, and saving $180K annually through reporting and reconciliation automation.
-
-- Email: devbhattwork27@gmail.com
-- LinkedIn: https://linkedin.com/in/dev-bhatt27

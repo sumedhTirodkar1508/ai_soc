@@ -1,6 +1,5 @@
 # CICIDS2017 ML Training Pipeline
 
-**Maintainer:** Dev Bhatt
 **Original Author:** Abdul Bari
 **Status:** Operational
 
@@ -476,13 +475,5 @@ This project is part of the AI-SOC system. See LICENSE file for details.
 
 ## Contact
 
-**Maintainer:** Dev Bhatt
 **Original Author:** Abdul Bari
 **Project:** AI-SOC - AI-Augmented Security Operations Center
-
-## About the Maintainer
-
-Dev Bhatt is a data analyst with 6+ years of professional experience building automated data pipelines, controls, and analytics solutions. His work includes automating key risk indicator tracking and reconciliation across 50M+ monthly records and delivering reporting automation that saved $180K annually. His technical skills include SQL, Python, PySpark, Spark, Airflow, and dbt.
-
-- **Email:** devbhattwork27@gmail.com
-- **LinkedIn:** https://linkedin.com/in/dev-bhatt27

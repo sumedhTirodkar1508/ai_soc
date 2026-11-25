@@ -186,13 +186,3 @@ features are absent from this deployment. New or expired advisories fail the aud
 See [the exception rationale](docs/security/dependency-exceptions.json).
 
 [Apache 2.0 license](LICENSE).
-
-## Maintainer
-
-Dev Bhatt maintains this project, bringing more than six years of experience in
-data analytics, automated pipelines, controls and dashboards. His work includes
-automating risk indicator tracking and reconciliation across more than 50 million
-records monthly, and building reporting automation that reduced operational costs.
-
-For project-related inquiries, contact [Dev Bhatt](mailto:devbhattwork27@gmail.com)
-or connect on [LinkedIn](https://linkedin.com/in/dev-bhatt27).

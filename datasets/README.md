@@ -1,6 +1,6 @@
 # Datasets for AI-Augmented SOC
 
-This directory contains documentation and scripts for acquiring and processing cybersecurity datasets used in the AI-SOC project. It is maintained by Dev Bhatt.
+This directory contains documentation and scripts for acquiring and processing cybersecurity datasets used in the AI-SOC project.
 
 ## Primary Datasets
 
@@ -208,10 +208,3 @@ If you use these datasets in research, please cite:
 **Need help?** Open an issue on GitHub or contact the project maintainer.
 
 ---
-
-## Maintainer
-
-Dev Bhatt maintains this dataset documentation, with a focus on data pipelines, analytics, controls, and automation.
-
-- LinkedIn: https://linkedin.com/in/dev-bhatt27
-- Email: devbhattwork27@gmail.com

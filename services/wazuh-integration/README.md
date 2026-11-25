@@ -357,10 +357,3 @@ tail -f /var/ossec/logs/ossec.log | grep integration
 ## License
 
 Part of AI-Augmented SOC platform.
-
-## Maintainer
-
-Maintained by Dev Bhatt, a data analyst with 6+ years of professional experience building automated pipelines, controls, and analytics solutions. His work includes automating risk indicator tracking and reconciliation at JPMorgan Chase and reporting and reconciliation at FleetPride.
-
-- Email: [devbhattwork27@gmail.com](mailto:devbhattwork27@gmail.com)
-- LinkedIn: [linkedin.com/in/dev-bhatt27](https://linkedin.com/in/dev-bhatt27)

@@ -479,9 +479,3 @@ The dataset is provided for academic and research purposes. Please respect the o
 
 **Dataset prepared for the AI-SOC Project**
 **California State University, San Bernardino**
-
-## Maintainer
-
-This dataset documentation is maintained by **Dev Bhatt**, a data analyst with 6+ years of professional experience building automated data pipelines, controls, and analytics. His work includes risk indicator tracking and reconciliation at scale, using SQL, Python, PySpark, Spark, Airflow, and dbt.
-
-For questions or maintenance updates, contact [Dev Bhatt](mailto:devbhattwork27@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/dev-bhatt27).

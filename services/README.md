@@ -521,7 +521,6 @@ Never commit:
 **TODO: Phase 5** - Open for community contributions
 
 **Current Development:**
-- Dev Bhatt - Current maintainer (devbhattwork27@gmail.com)
 - Abdul Bari - Project lead and original contributor (abdul.bari8019@coyote.csusb.edu)
 - CSUSB Cybersecurity Research
 
@@ -608,16 +607,3 @@ docker-compose up -d chromadb
 **GitHub:** https://github.com/zhadyz/AI_SOC
 
 ---
-
-## Maintainer
-
-Dev Bhatt maintains this AI services layer, with a focus on reliable automation, data quality, and operational controls. He has 6+ years of professional experience in data analytics and automation, including building pipelines, controls, and dashboards, and automating risk indicator tracking and reconciliation at scale.
-
-**Email:** devbhattwork27@gmail.com
-**LinkedIn:** https://linkedin.com/in/dev-bhatt27
-
----
-
-**Last Updated:** 2025-01-13
-**Phase:** 3 (Weeks 4-5) - AI Layer Development
-**Status:** Scaffolding Complete

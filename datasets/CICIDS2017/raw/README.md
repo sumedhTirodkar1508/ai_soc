@@ -19,13 +19,3 @@ Protocol and cannot meet that contract without inventing measurements.
 Large archives/CSVs are excluded from Git. This installation keeps downloads in
 `../../work/dataset/csvs` relative to the repository and the trained research bundle
 in `models/bundles/cicids2017-multiclass-20260904`.
-
-## Maintainer
-
-Dev Bhatt maintains this project, bringing over 6 years of experience in data
-analytics, automated pipelines, controls, and dashboards. His work includes
-automating risk indicator tracking and reconciliation across 50M+ monthly records
-and delivering operational automation that reduced cycle time by 35%.
-
-- Email: [devbhattwork27@gmail.com](mailto:devbhattwork27@gmail.com)
-- LinkedIn: [linkedin.com/in/dev-bhatt27](https://linkedin.com/in/dev-bhatt27)

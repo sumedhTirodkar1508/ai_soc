@@ -464,11 +464,4 @@ pytest tests/test_performance.py -v
 
 **Last Updated:** 2025-01-13
 **Status:** Scaffolded - Implementation in Week 5
-**Maintainer:** Dev Bhatt, with original project contributions by Abdul Bari
-
-## Maintainer
-
-Dev Bhatt maintains this service, focusing on reliable data workflows, automation, and analytics. He has 6+ years of professional experience building pipelines, controls, and dashboards, including risk indicator tracking and reconciliation at scale.
-
-- **Email:** devbhattwork27@gmail.com
-- **LinkedIn:** https://linkedin.com/in/dev-bhatt27
+**Original Author:** Abdul Bari

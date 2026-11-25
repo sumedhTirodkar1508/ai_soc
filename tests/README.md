@@ -44,11 +44,3 @@ probe-only effects and restore them. The second uses authored fixture plans and 
 separate durable store to exercise the actual response engine, HTTP adapter,
 controller, approval, restart reconciliation and rollback. No production vendor
 or empirical prevention result is implied by these tests.
-
-## Maintainer
-
-Maintained by Dev Bhatt, a data analyst with over six years of experience building
-automated pipelines, controls and dashboards. His work focuses on risk indicators,
-reconciliation and automation using SQL, Python, PySpark, Spark, Airflow and dbt.
-
-Contact: [Email](mailto:devbhattwork27@gmail.com) | [LinkedIn](https://linkedin.com/in/dev-bhatt27)
